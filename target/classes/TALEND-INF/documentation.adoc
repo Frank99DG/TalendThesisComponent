@@ -1,0 +1,21 @@
+//component_start:ExecutorControls
+
+== ExecutorControls
+
+TODO fill the documentation for this processor
+
+//configuration_start
+
+=== Configuration
+
+[cols="d,d,m,a,e,d",options="header"]
+|===
+|Display Name|Description|Default Value|Enabled If|Configuration Path|Configuration Type
+|configuration|TODO fill the documentation for this configuration|-|Always enabled|configuration|-
+|level|TODO fill the documentation for this parameter|-|Always enabled|configuration.level|-
+|===
+
+//configuration_end
+
+//component_end:ExecutorControls
+

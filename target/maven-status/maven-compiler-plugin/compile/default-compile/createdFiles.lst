@@ -1,0 +1,11 @@
+com\uniba\talend\executorcontrols\processor\control\ControlInt.class
+com\uniba\talend\executorcontrols\processor\control\ControlDate.class
+com\uniba\talend\executorcontrols\processor\control\ControlFiscalCode.class
+com\uniba\talend\executorcontrols\processor\control\SyntacticCompletenessISO25024.class
+com\uniba\talend\executorcontrols\service\UnibaExecutorControlsService.class
+com\uniba\talend\executorcontrols\package-info.class
+com\uniba\talend\executorcontrols\processor\control\RecordCompletenessISO25024.class
+com\uniba\talend\executorcontrols\processor\ExecutorControlsProcessor.class
+com\uniba\talend\executorcontrols\processor\control\ControlVatNumber.class
+com\uniba\talend\executorcontrols\processor\ExecutorControlsProcessorConfiguration.class
+com\uniba\talend\executorcontrols\processor\control\SyntacticAccuracyISO25024.class
